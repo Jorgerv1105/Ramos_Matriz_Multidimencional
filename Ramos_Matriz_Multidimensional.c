@@ -5,13 +5,7 @@
 int main()
 {
     // Ingreso de variables y se escanean las mismas
-    int n, m, z, x;
-    printf("Coloque el numero de matrices: \n");
-    scanf("%d", &z);
-    printf("Coloque el numero de filas: \n");
-    scanf("%d", &n);
-    printf("Coloque el numero de columnas:\n");
-    scanf("%d", &m);
+
     // Ingreso de la matriz
     int matrix[n][m];
     // Inicio de valores de la variable z
